@@ -7,6 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CE504A3F162678B700983442 /* Calculator.m in Sources */ = {isa = PBXBuildFile; fileRef = CE504A38162678B700983442 /* Calculator.m */; };
+		CE504A40162678B700983442 /* DecimalNumber.m in Sources */ = {isa = PBXBuildFile; fileRef = CE504A3A162678B700983442 /* DecimalNumber.m */; };
+		CE504A41162678B700983442 /* Formula.m in Sources */ = {isa = PBXBuildFile; fileRef = CE504A3C162678B700983442 /* Formula.m */; };
+		CE504A42162678B700983442 /* StackArray.m in Sources */ = {isa = PBXBuildFile; fileRef = CE504A3E162678B700983442 /* StackArray.m */; };
+		CEA29084161BF4780042FC80 /* black.png in Resources */ = {isa = PBXBuildFile; fileRef = CEA29080161BF4780042FC80 /* black.png */; };
+		CEA29085161BF4780042FC80 /* black@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEA29081161BF4780042FC80 /* black@2x.png */; };
+		CEA29086161BF4780042FC80 /* red.png in Resources */ = {isa = PBXBuildFile; fileRef = CEA29082161BF4780042FC80 /* red.png */; };
+		CEA29087161BF4780042FC80 /* red@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEA29083161BF4780042FC80 /* red@2x.png */; };
+		CEA29094161C030B0042FC80 /* blue.png in Resources */ = {isa = PBXBuildFile; fileRef = CEA29088161C030B0042FC80 /* blue.png */; };
+		CEA29095161C030B0042FC80 /* blue@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEA29089161C030B0042FC80 /* blue@2x.png */; };
+		CEA29096161C030B0042FC80 /* brown.png in Resources */ = {isa = PBXBuildFile; fileRef = CEA2908A161C030B0042FC80 /* brown.png */; };
+		CEA29097161C030B0042FC80 /* brown@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEA2908B161C030B0042FC80 /* brown@2x.png */; };
+		CEA29098161C030B0042FC80 /* green.png in Resources */ = {isa = PBXBuildFile; fileRef = CEA2908C161C030B0042FC80 /* green.png */; };
+		CEA29099161C030B0042FC80 /* green@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEA2908D161C030B0042FC80 /* green@2x.png */; };
+		CEA2909A161C030B0042FC80 /* grey.png in Resources */ = {isa = PBXBuildFile; fileRef = CEA2908E161C030B0042FC80 /* grey.png */; };
+		CEA2909B161C030B0042FC80 /* grey@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEA2908F161C030B0042FC80 /* grey@2x.png */; };
+		CEA2909C161C030B0042FC80 /* orange.png in Resources */ = {isa = PBXBuildFile; fileRef = CEA29090161C030B0042FC80 /* orange.png */; };
+		CEA2909D161C030B0042FC80 /* orange@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEA29091161C030B0042FC80 /* orange@2x.png */; };
+		CEA290A2161C10F70042FC80 /* sel_brown.png in Resources */ = {isa = PBXBuildFile; fileRef = CEA290A0161C10F70042FC80 /* sel_brown.png */; };
+		CEA290A3161C10F70042FC80 /* sel_brown@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = CEA290A1161C10F70042FC80 /* sel_brown@2x.png */; };
 		CEECD6E5161A8EA200818EFE /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEECD6E4161A8EA200818EFE /* UIKit.framework */; };
 		CEECD6E7161A8EA200818EFE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEECD6E6161A8EA200818EFE /* Foundation.framework */; };
 		CEECD6E9161A8EA200818EFE /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = CEECD6E8161A8EA200818EFE /* CoreGraphics.framework */; };
@@ -21,6 +41,30 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CE504A37162678B700983442 /* Calculator.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Calculator.h; sourceTree = "<group>"; };
+		CE504A38162678B700983442 /* Calculator.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Calculator.m; sourceTree = "<group>"; };
+		CE504A39162678B700983442 /* DecimalNumber.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DecimalNumber.h; sourceTree = "<group>"; };
+		CE504A3A162678B700983442 /* DecimalNumber.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DecimalNumber.m; sourceTree = "<group>"; };
+		CE504A3B162678B700983442 /* Formula.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Formula.h; sourceTree = "<group>"; };
+		CE504A3C162678B700983442 /* Formula.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Formula.m; sourceTree = "<group>"; };
+		CE504A3D162678B700983442 /* StackArray.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StackArray.h; sourceTree = "<group>"; };
+		CE504A3E162678B700983442 /* StackArray.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StackArray.m; sourceTree = "<group>"; };
+		CEA29080161BF4780042FC80 /* black.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = black.png; path = images/black.png; sourceTree = "<group>"; };
+		CEA29081161BF4780042FC80 /* black@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "black@2x.png"; path = "images/black@2x.png"; sourceTree = "<group>"; };
+		CEA29082161BF4780042FC80 /* red.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = red.png; path = images/red.png; sourceTree = "<group>"; };
+		CEA29083161BF4780042FC80 /* red@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "red@2x.png"; path = "images/red@2x.png"; sourceTree = "<group>"; };
+		CEA29088161C030B0042FC80 /* blue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = blue.png; path = images/blue.png; sourceTree = "<group>"; };
+		CEA29089161C030B0042FC80 /* blue@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "blue@2x.png"; path = "images/blue@2x.png"; sourceTree = "<group>"; };
+		CEA2908A161C030B0042FC80 /* brown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = brown.png; path = images/brown.png; sourceTree = "<group>"; };
+		CEA2908B161C030B0042FC80 /* brown@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "brown@2x.png"; path = "images/brown@2x.png"; sourceTree = "<group>"; };
+		CEA2908C161C030B0042FC80 /* green.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = green.png; path = images/green.png; sourceTree = "<group>"; };
+		CEA2908D161C030B0042FC80 /* green@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "green@2x.png"; path = "images/green@2x.png"; sourceTree = "<group>"; };
+		CEA2908E161C030B0042FC80 /* grey.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = grey.png; path = images/grey.png; sourceTree = "<group>"; };
+		CEA2908F161C030B0042FC80 /* grey@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "grey@2x.png"; path = "images/grey@2x.png"; sourceTree = "<group>"; };
+		CEA29090161C030B0042FC80 /* orange.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = orange.png; path = images/orange.png; sourceTree = "<group>"; };
+		CEA29091161C030B0042FC80 /* orange@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "orange@2x.png"; path = "images/orange@2x.png"; sourceTree = "<group>"; };
+		CEA290A0161C10F70042FC80 /* sel_brown.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = sel_brown.png; path = images/sel_brown.png; sourceTree = "<group>"; };
+		CEA290A1161C10F70042FC80 /* sel_brown@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "sel_brown@2x.png"; path = "images/sel_brown@2x.png"; sourceTree = "<group>"; };
 		CEECD6E0161A8EA200818EFE /* HexCalc.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HexCalc.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CEECD6E4161A8EA200818EFE /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		CEECD6E6161A8EA200818EFE /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -53,6 +97,29 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		CEA2907E161BF4630042FC80 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				CEA290A0161C10F70042FC80 /* sel_brown.png */,
+				CEA290A1161C10F70042FC80 /* sel_brown@2x.png */,
+				CEA29088161C030B0042FC80 /* blue.png */,
+				CEA29089161C030B0042FC80 /* blue@2x.png */,
+				CEA2908A161C030B0042FC80 /* brown.png */,
+				CEA2908B161C030B0042FC80 /* brown@2x.png */,
+				CEA2908C161C030B0042FC80 /* green.png */,
+				CEA2908D161C030B0042FC80 /* green@2x.png */,
+				CEA2908E161C030B0042FC80 /* grey.png */,
+				CEA2908F161C030B0042FC80 /* grey@2x.png */,
+				CEA29090161C030B0042FC80 /* orange.png */,
+				CEA29091161C030B0042FC80 /* orange@2x.png */,
+				CEA29080161BF4780042FC80 /* black.png */,
+				CEA29081161BF4780042FC80 /* black@2x.png */,
+				CEA29082161BF4780042FC80 /* red.png */,
+				CEA29083161BF4780042FC80 /* red@2x.png */,
+			);
+			name = images;
+			sourceTree = "<group>";
+		};
 		CEECD6D5161A8EA200818EFE = {
 			isa = PBXGroup;
 			children = (
@@ -83,6 +150,15 @@
 		CEECD6EA161A8EA200818EFE /* HexCalc */ = {
 			isa = PBXGroup;
 			children = (
+				CEA2907E161BF4630042FC80 /* images */,
+				CE504A37162678B700983442 /* Calculator.h */,
+				CE504A38162678B700983442 /* Calculator.m */,
+				CE504A39162678B700983442 /* DecimalNumber.h */,
+				CE504A3A162678B700983442 /* DecimalNumber.m */,
+				CE504A3B162678B700983442 /* Formula.h */,
+				CE504A3C162678B700983442 /* Formula.m */,
+				CE504A3D162678B700983442 /* StackArray.h */,
+				CE504A3E162678B700983442 /* StackArray.m */,
 				CEECD6F3161A8EA200818EFE /* AppDelegate.h */,
 				CEECD6F4161A8EA200818EFE /* AppDelegate.m */,
 				CEECD6FC161A8EA200818EFE /* ViewController.h */,
@@ -133,7 +209,7 @@
 		CEECD6D7161A8EA200818EFE /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0450;
+				LastUpgradeCheck = 0900;
 				ORGANIZATIONNAME = "YAMAMOTO Naoki";
 			};
 			buildConfigurationList = CEECD6DA161A8EA200818EFE /* Build configuration list for PBXProject "HexCalc" */;
@@ -163,6 +239,22 @@
 				CEECD6F9161A8EA200818EFE /* Default@2x.png in Resources */,
 				CEECD6FB161A8EA200818EFE /* Default-568h@2x.png in Resources */,
 				CEECD701161A8EA200818EFE /* ViewController.xib in Resources */,
+				CEA29084161BF4780042FC80 /* black.png in Resources */,
+				CEA29085161BF4780042FC80 /* black@2x.png in Resources */,
+				CEA29086161BF4780042FC80 /* red.png in Resources */,
+				CEA29087161BF4780042FC80 /* red@2x.png in Resources */,
+				CEA29094161C030B0042FC80 /* blue.png in Resources */,
+				CEA29095161C030B0042FC80 /* blue@2x.png in Resources */,
+				CEA29096161C030B0042FC80 /* brown.png in Resources */,
+				CEA29097161C030B0042FC80 /* brown@2x.png in Resources */,
+				CEA29098161C030B0042FC80 /* green.png in Resources */,
+				CEA29099161C030B0042FC80 /* green@2x.png in Resources */,
+				CEA2909A161C030B0042FC80 /* grey.png in Resources */,
+				CEA2909B161C030B0042FC80 /* grey@2x.png in Resources */,
+				CEA2909C161C030B0042FC80 /* orange.png in Resources */,
+				CEA2909D161C030B0042FC80 /* orange@2x.png in Resources */,
+				CEA290A2161C10F70042FC80 /* sel_brown.png in Resources */,
+				CEA290A3161C10F70042FC80 /* sel_brown@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +268,10 @@
 				CEECD6F1161A8EA200818EFE /* main.m in Sources */,
 				CEECD6F5161A8EA200818EFE /* AppDelegate.m in Sources */,
 				CEECD6FE161A8EA200818EFE /* ViewController.m in Sources */,
+				CE504A3F162678B700983442 /* Calculator.m in Sources */,
+				CE504A40162678B700983442 /* DecimalNumber.m in Sources */,
+				CE504A41162678B700983442 /* Formula.m in Sources */,
+				CE504A42162678B700983442 /* StackArray.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -207,22 +303,42 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
 				);
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -233,15 +349,33 @@
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
 				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 6.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				SDKROOT = iphoneos;
 				VALIDATE_PRODUCT = YES;
@@ -254,6 +388,8 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HexCalc/HexCalc-Prefix.pch";
 				INFOPLIST_FILE = "HexCalc/HexCalc-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "jp.ne.ocn.carol.y10.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -265,6 +401,8 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "HexCalc/HexCalc-Prefix.pch";
 				INFOPLIST_FILE = "HexCalc/HexCalc-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "jp.ne.ocn.carol.y10.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -289,6 +427,7 @@
 				CEECD706161A8EA200818EFE /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

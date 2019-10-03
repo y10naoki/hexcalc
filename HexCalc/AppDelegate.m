@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  HexCalc
 //
-//  Created by YAMAMOTO Naoki on 12/10/02.
+//  Created by YAMAMOTO Naoki on 12/10/06.
 //  Copyright (c) 2012年 YAMAMOTO Naoki. All rights reserved.
 //
 
